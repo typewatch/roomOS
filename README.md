@@ -18,7 +18,7 @@ RoomOS is a flexible, fast and secure esp32 firmware platform for Home Assistant
 - And much more!
 
 ## Supported Devices
-As of now, **roomOS is only being actively developed for the Espressif ESP32 microcontroller.** A port to other popular microcontrollers, and possibly a linux app (for SBCs like Raspberry Pis) are in my to-do list, and I will get to them. Eventually.
+As of now, **roomOS is only being actively developed for the Espressif ESP32 microcontroller family.** A port to other popular microcontrollers, and possibly a linux app (for SBCs like Raspberry Pis) are in my to-do list, and I will get to them. Eventually.
 
 ## Releases
 * 1.0.0
